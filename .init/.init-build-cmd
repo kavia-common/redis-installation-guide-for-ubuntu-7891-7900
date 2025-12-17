@@ -1,0 +1,4 @@
+{
+    "command": "npm install --legacy-peer-deps && npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/redis-installation-guide-for-ubuntu-7891-7900/how_to_add_redis_in_ubuntu_frontend"
+}
